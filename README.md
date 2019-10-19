@@ -1,10 +1,10 @@
 # *Flixter*
 
-**Flixter** is an android app that allows the user to see all the movies that are currently being played and a description of those movies.
+**Flixter** is an android app that allows the user to see all the movies that are currently playing and their descriptions.
 
-Submitted by: **Aaron Christson**
+Submitted by: **Jamal Aw Yonis**
 
-Time spent: **2** hours spent in total
+Time spent: **4** hours spent in total
 
 ## User Stories
 
