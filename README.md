@@ -17,6 +17,8 @@ The following **optional** features are implemented:
 * [x] Views should be responsive for both landscape/portrait mode. In portrait mode, the poster image, title, and movie overview is shown. In landscape mode, the rotated alternate layout should use the backdrop image instead and show the title and movie overview to the right of it.
 
 * [x] Improve the user interface through styling and coloring
+* You can click the movies now and view the information of each movie. For example the title, small descriptions about it.
+* You can also watch the trailer of each move when you click it.
 
 ## Video Walkthrough
 
